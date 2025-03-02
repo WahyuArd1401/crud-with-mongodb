@@ -30,8 +30,8 @@ Sebuah REST API sederhana untuk mengelola produk makanan menggunakan **Node.js**
 
 ### 1️⃣ **Clone Repository**
 ```sh
-git clone https://github.com/username/meal-product-api.git
-cd meal-product-api
+git clone https://github.com/WahyuArd1401/crud-with-mongodb.git
+cd crud-with-mongodb
 ```
 
 ### 2️⃣ **Instal Dependencies**
